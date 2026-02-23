@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Models (large files — downloaded on first run)
+models/
+*.pt
+*.bin
+*.safetensors
+*.onnx
+
+# Temp / Audio files
+temp/
+*.mp3
+*.wav
+*.ogg
+
+# Logs
+*.log
+linguaflow.log
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data (user-specific)
+data/
+
+# API Keys / Secrets
+.env
+*.env
+secrets.py
