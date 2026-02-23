@@ -1,0 +1,55 @@
+============================================================
+  AUDIO DEVICES ON THIS SYSTEM
+============================================================
+
+--- INPUT DEVICES (Microphones) ---
+  [0] Microsoft Sound Mapper - Input (channels: 2)
+  [1] Microphone Array (AMD Audio Dev (channels: 2) <<< DEFAULT
+  [2] Headset (Noise Buds VS104) (channels: 1)
+  [6] Primary Sound Capture Driver (channels: 2)
+  [7] Microphone Array (AMD Audio Device) (channels: 2)
+  [8] Headset (Noise Buds VS104) (channels: 1)
+  [14] Microphone Array (AMD Audio Device) (channels: 2)
+  [15] Headset (Noise Buds VS104) (channels: 1)
+  [17] Headset (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+
+;(Noise Buds VS104)) (channels: 1)
+  [18] Microphone (Realtek HD Audio Mic input) (channels: 2)
+  [21] PC Speaker (Realtek HD Audio 2nd output with HAP) (channels: 2)
+  [22] Stereo Mix (Realtek HD Audio Stereo input) (channels: 2)
+  [25] PC Speaker (Realtek HD Audio output with HAP) (channels: 2)
+  [27] Input (@System32\drivers\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0
+
+;(Parth F231+)) (channels: 1)
+  [28] Input () (channels: 2)
+  [30] Microphone Array (AMDAfdInstall Wave Microphone - 0) (channels: 2)
+
+--- OUTPUT DEVICES (Speakers) ---
+  [3] Microsoft Sound Mapper - Output (channels: 2)
+  [4] Headphones (Noise Buds VS104) (channels: 2) <<< DEFAULT
+  [5] Speakers (Realtek(R) Audio) (channels: 2)
+  [9] Primary Sound Driver (channels: 2)
+  [10] Headphones (Noise Buds VS104) (channels: 2)
+  [11] Speakers (Realtek(R) Audio) (channels: 2)
+  [12] Headphones (Noise Buds VS104) (channels: 2)
+  [13] Speakers (Realtek(R) Audio) (channels: 2)
+  [16] Headset (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+
+;(Noise Buds VS104)) (channels: 1)
+  [19] Headphones 1 (Realtek HD Audio 2nd output with HAP) (channels: 2)
+  [20] Headphones 2 (Realtek HD Audio 2nd output with HAP) (channels: 2)
+  [23] Speakers 1 (Realtek HD Audio output with HAP) (channels: 2)
+  [24] Speakers 2 (Realtek HD Audio output with HAP) (channels: 2)
+  [26] Output (@System32\drivers\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0
+
+;(Parth F231+)) (channels: 1)
+  [29] Headphones () (channels: 2)
+
+Default Input Device ID: 1
+Default Output Device ID: 4
+
+--- QUICK RECORDING TEST (2 seconds) ---
+Recording for 2 seconds... speak now!
+Peak level: 0.0056
+RMS level:  0.0010
+WARNING: Very low audio level. Check microphone volume.
