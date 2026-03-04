@@ -1,4 +1,4 @@
-# 🌐 LinguaFlow
+# 🌐 MultilingualAI
 
 > **Real-Time Multilingual Translation with Emotional Intelligence**
 
